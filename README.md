@@ -4,7 +4,12 @@ My first attempt at a macOS app. Built entirely with Cursor and Xcode... details
 
 Easily batch-rename folders exported from Apple Photos for chronological sorting.
 
-## Test Update at 9/17/2024 at 17:15 PDT
+![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot 01.png)
 
-This is a test to verify syncing between Cursor AI and GitHub.
+![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot 02.png)
 
+![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot 03.png)
+
+![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot 04.png)
+
+![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot 05.png)
