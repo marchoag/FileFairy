@@ -1,5 +1,5 @@
 # FileFairy
-<img src="https://github.com/marchoag/FileFairy/blob/main/Screenshots/FileFairyIcon.png" width="48">
+<img src="https://github.com/marchoag/FileFairy/blob/main/Screenshots/FileFairyIcon.png" width="50%">
 
 ![image](https://github.com/marchoag/FileFairy/blob/main/Screenshots/FileFairyIcon.png)
 
