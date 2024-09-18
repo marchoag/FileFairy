@@ -4,12 +4,12 @@ My first attempt at a macOS app. Built entirely with Cursor and Xcode... details
 
 Easily batch-rename folders exported from Apple Photos for chronological sorting.
 
-![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot 01.png)
+![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot%2001.png)
 
-![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot 02.png)
+![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot%2002.png)
 
-![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot 03.png)
+![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot%2003.png)
 
-![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot 04.png)
+![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot%2004.png)
 
-![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot 05.png)
+![image](https://github.com/marchoag/FileFairy/screenshots/Screenshot%2005.png)
