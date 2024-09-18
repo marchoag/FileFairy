@@ -1,6 +1,14 @@
 # FileFairy
 
-My first attempt at a macOS app. Built entirely with Cursor and Xcode. Easily batch-rename folders exported from Apple Photos for chronological sorting.
+My first attempt at a macOS app. Built entirely with Cursor and Xcode. Easily batch-rename folders exported from Apple Photos for chronological sorting. Screenshots below.
+
+# Key Features
+
+- preview pane for the changes that will be made (or skipped)
+- confirmation of the changes that will be made (or skipped)
+- ability to undo changes if for whatever reason you need to, well, undo
+- red font for skipped; green font for changed
+- a cute pastel-colored FileFairy icon designed entirely by Cursor
 
 # Problem solving:
 
