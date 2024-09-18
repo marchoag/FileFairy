@@ -1,5 +1,6 @@
 # FileFairy
 <img src="[url-to-image](https://github.com/marchoag/FileFairy/blob/main/Screenshots/FileFairyIcon.png)" width="48">
+
 ![image](https://github.com/marchoag/FileFairy/blob/main/Screenshots/FileFairyIcon.png)
 
 My first attempt at a macOS app. Built entirely with Cursor and Xcode. Easily batch-rename folders exported from Apple Photos for chronological sorting. Screenshots below.
