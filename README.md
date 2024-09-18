@@ -2,6 +2,8 @@
 
 My first attempt at a macOS app. Built entirely with Cursor and Xcode. Easily batch-rename folders exported from Apple Photos for chronological sorting. Screenshots below.
 
+![image](https://github.com/marchoag/FileFairy/blob/main/Screenshots/Screenshot%2003.png)
+
 # Key Features
 
 - preview pane for the changes that will be made (or skipped)
